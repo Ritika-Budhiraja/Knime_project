@@ -1,5 +1,5 @@
 # Knime_project
-**# **Crop Yield Forecasting Using Machine Learning**
+**Crop Yield Forecasting Using Machine Learning**
 
 This project leverages KNIME and Python-based workflows to forecast crop yields across various districts, utilizing historical data on weather conditions, soil parameters, and crop yield. The goal is to develop accurate and efficient models to assist stakeholders in agricultural decision-making.
 
@@ -69,4 +69,4 @@ Crop yield forecasting is a crucial task for optimizing agricultural productivit
 ```bash
 git clone https://github.com/your-username/Crop-Yield-Forecasting.git
 cd Crop-Yield-Forecasting
-**
+
